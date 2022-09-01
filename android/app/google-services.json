@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777450461065",
+    "project_id": "chat-app-c9857",
+    "storage_bucket": "chat-app-c9857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777450461065:android:378a334eb192a7aa01b358",
+        "android_client_info": {
+          "package_name": "fastmsg.fastmsg.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777450461065-m0og1l14l51poo45ttinbrp8udn8sp39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8jrGaSFZhD8YYMjQNEWRzrcfyu43iSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777450461065-m0og1l14l51poo45ttinbrp8udn8sp39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
